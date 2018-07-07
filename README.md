@@ -1,16 +1,17 @@
 # TourPlannerServer
-This application is the Server of the Tour Planner.
+## This application is the Server of the Tour Planner.
 - Add new packages
 - Gernerate new category and places
 - Process the payment
 - Full control of the backend
 - Email Authentication
+- Search Packges
+
+### Developer Email: erfanali2012@gmail.com
 
 
-![screenshot_20171130-195035](https://user-images.githubusercontent.com/40911364/42409585-f9dab406-81f5-11e8-8ec7-f421b188df49.png)
-![screenshot_20171130-195058](https://user-images.githubusercontent.com/40911364/42409586-fa438cd8-81f5-11e8-836f-0d3e94209397.png)
-![screenshot_20171130-195104](https://user-images.githubusercontent.com/40911364/42409587-faba1100-81f5-11e8-94c8-7360c82fc0f4.png)
-![screenshot_20171130-195108](https://user-images.githubusercontent.com/40911364/42409588-fb19f57a-81f5-11e8-8775-540a7ac1710b.png)
-![screenshot_20171130-195158](https://user-images.githubusercontent.com/40911364/42409589-fb88caae-81f5-11e8-988e-be984bccd2cc.png)
-![screenshot_20171130-195202](https://user-images.githubusercontent.com/40911364/42409590-fbcaf456-81f5-11e8-9743-d59d397598a6.png)
+![screenshot_20171130-195035](https://user-images.githubusercontent.com/40911364/42409759-963814fe-81f8-11e8-9d5b-5b85ec2ecebe.png) ![screenshot_20171130-195058](https://user-images.githubusercontent.com/40911364/42409761-97a02480-81f8-11e8-9770-9fc86bcdb51a.png)
+![screenshot_20171130-195104](https://user-images.githubusercontent.com/40911364/42409762-97f8bcbc-81f8-11e8-8b3a-b9b9a1852e3f.png) ![screenshot_20171130-195108](https://user-images.githubusercontent.com/40911364/42409763-9853dff2-81f8-11e8-94a4-b36a0aef26bb.png)
+![screenshot_20171130-195158](https://user-images.githubusercontent.com/40911364/42409764-98991766-81f8-11e8-9d31-f46d55e3d135.png) ![screenshot_20171130-195202](https://user-images.githubusercontent.com/40911364/42409765-98e74134-81f8-11e8-9c58-5f094cd83a55.png)
+
 
